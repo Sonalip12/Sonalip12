@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>🎓 Pursuing B.Tech in Computer Science Engineering.<br> 💻 Full Stack Web Development and Cloud Computing with AI integration across both domains.<br> 🚀Skilled in Python, Java, C, HTML, CSS, JavaScript, Node.js, and Express.js.<br> 👩‍💻Familiar with DevOps concepts and development workflows.<br> ✨Core Team Member in college clubs in the domains of Content Writing and Publication.<br> 🛠️Passionate about building scalable and user-focused applications while continuously learning modern technologies.<br>
+<br>🎓 Pursuing B.Tech in Computer Science Engineering.<br> 💻 Full Stack Web Development and Cloud Computing with AI integration across both domains.<br> 🚀Skilled in Python, Java, C, HTML, CSS, JavaScript, Node.js, and Express.js.<br> 👩‍💻Familiar with DevOps concepts and development workflows.<br> ✨Core Team Member in college clubs in the domains of Content Writing and Publication.<br> 🛠️Passionate about building scalable and user-focused applications while continuously learning modern technologies.<br>
 
 
 ## 🌐 Socials:
