@@ -12,8 +12,6 @@
 
 🐍 Proficient in Python, Java with a focus on applying programming to automation, cloud infrastructure, and data-driven applications.
 
-🚀 Focused on building, automating, and deploying reliable and scalable solutions while continuously advancing my expertise in Cloud, DevOps, and Machine Learning.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sonali-pradhan-109177350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonalippradhan1205@gmail.com) 
